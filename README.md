@@ -1,1 +1,1 @@
-# ArInfo_responsive_cours
+# Projet LoSo
